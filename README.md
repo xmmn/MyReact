@@ -1,2 +1,0 @@
-# MyReact
-custom react frame
